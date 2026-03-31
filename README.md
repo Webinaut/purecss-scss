@@ -15,13 +15,13 @@ Original Pure CSS files are converted using `sass-convert` and otherwise untouch
 **npm:**
 
 ```bash
-npm install purecss-sass
+npm install purecss-dartsass
 ```
 
 **Yarn 1 (Classic):**
 
 ```bash
-yarn add purecss-sass
+yarn add purecss-dartsass
 ```
 
 Import it in your Sass file:
@@ -35,7 +35,7 @@ Import it in your Sass file:
 Update your `Gemfile`:
 
 ```ruby
-gem 'purecss-sass'
+gem 'purecss-dartsass'
 ```
 
 Run `bundle` to install the gem.
