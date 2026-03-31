@@ -1,4 +1,4 @@
-# Pure CSS for Sass
+# Pure CSS for Dart Sass
 
 [![Gem Version](https://badge.fury.io/rb/purecss-sass.svg)](https://badge.fury.io/rb/purecss-sass)
 [![npm version](https://badge.fury.io/js/purecss-sass.svg)](https://badge.fury.io/js/purecss-sass)
