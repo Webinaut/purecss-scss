@@ -1,7 +1,5 @@
 # Pure CSS for Dart Sass
 
-# Pure CSS for Dart Sass
-
 [![Gem Version](https://badge.fury.io/rb/purecss-sass.svg)](https://badge.fury.io/rb/purecss-sass)
 [![npm version](https://badge.fury.io/js/purecss-sass.svg)](https://badge.fury.io/js/purecss-sass)
 [![CI](https://github.com/rubysamurai/purecss-sass/workflows/CI/badge.svg)](https://github.com/rubysamurai/purecss-sass/actions?query=workflow%3ACI)
