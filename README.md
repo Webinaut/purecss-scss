@@ -87,3 +87,4 @@ Pure CSS for Sass is inspired from [bootstrap-sass](https://github.com/twbs/boot
 Pure © Yahoo! Inc. Licensed under the [BSD](https://github.com/pure-css/pure/blob/master/LICENSE) license.
 
 `purecss-sass` © Dmitriy Tarasov. Licensed under the [MIT](LICENSE.txt) licence.
+# purecss-scss
