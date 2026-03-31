@@ -1,0 +1,26 @@
+{
+  "name": "@webinaut/purecss-dartsass",
+  "version": "3.0.2",
+  "description": "Pure Dart CSS framework, converted to Sass and ready to use in Sass powered applications",
+  "keywords": [
+    "pure",
+    "purecss",
+    "scss",
+    "sass",
+    "dart sass"
+  ],
+  "homepage": "https://github.com/Webinaut/purecss-dartsass",
+  "bugs": {
+    "url": "https://github.com/Webinaut/purecss-dartsass/issues"
+  },
+  "license": "MIT",
+  "author": "Dmitriy Tarasov <info@rubysamurai.com>",
+  "files": [
+    "vendor"
+  ],
+  "main": "vendor/assets/stylesheets/_purecss.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Webinaut/purecss-dartsass.git"
+  }
+}
