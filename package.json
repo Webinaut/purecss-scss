@@ -1,36 +1,30 @@
 {
   "name": "@webinaut/purecss-scss",
-  "version": "3.0.2",
-  "description": "Pure Dart CSS framework, converted to Sass and ready to use in Sass powered applications",
+  "version": "1.0.1",
+  "description": "Pure CSS framework, converted to Sass and ready to use in Sass powered applications",
   "keywords": [
     "pure",
     "purecss",
     "scss",
-    "sass",
-    "dart sass"
+    "sass"
   ],
-  "homepage": "https://github.com/Webinaut/purecss-scss",
-  "bugs": {
-    "url": "https://github.com/Webinaut/purecss-scss/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Webinaut/purecss-scss.git"
-  },
-  "license": "MIT",
-  "author": "Dmitriy Tarasov <info@rubysamurai.com>",
-  "type": "commonjs",
-  "main": "vendor/assets/stylesheets/_purecss.scss",
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "dist/pure.css",
+  "scss": "src/pure.scss",
   "files": [
-    "vendor"
+    "dist",
+    "src"
   ],
   "scripts": {
-    "test": "0"
+    "build": "sass src/pure.scss dist/pure.css --style compressed",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "modern-normalize": "^3.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.99.0"
   },
   "publishConfig": {
-    "@Webinaut:registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }
