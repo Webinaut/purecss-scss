@@ -14,13 +14,13 @@
     "dist",
     "src"
   ],
-  "scripts": {
-    "build": "sass src/pure.scss dist/pure.css --style compressed",
-    "prepublishOnly": "npm run build"
-  },
   "dependencies": {
     "modern-normalize": "^3.0.1",
     "sass": "^1.99.0"
+  },
+  "scripts": {
+    "build": "sass src/pure.scss dist/pure.css --style compressed",
+    "prepublishOnly": "npm run build"
   },
   "publishConfig": {
     "access": "public"
