@@ -19,7 +19,7 @@
     "sass": "^1.99.0"
   },
   "scripts": {
-    "build": "npx sass src/pure.scss dist/pure.css --style compressed",
+    "build": "sass src/pure.scss dist/pure.css --style compressed",
     "prepublishOnly": "npm run build"
   },
   "publishConfig": {
