@@ -19,9 +19,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "modern-normalize": "^3.0.1"
-  },
-  "devDependencies": {
+    "modern-normalize": "^3.0.1",
     "sass": "^1.99.0"
   },
   "publishConfig": {
