@@ -1,7 +1,7 @@
 {
-  "name": "pure-css-sass",
-  "version": "1.0.1",
-  "description": "Pure CSS framework, converted to Sass and ready to use in Sass powered applications",
+  "name": "purecss-scss",
+  "version": "2.0.1",
+  "description": "Pure CSS framework, converted to Sass (SCSS) and ready to use in Sass powered applications",
   "keywords": [
     "pure",
     "purecss",
