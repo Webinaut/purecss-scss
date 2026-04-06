@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Pure CSS Sass Version</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-2.0.3-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Pure CSS framework, converted to Sass and ready to use in Sass powered applications
