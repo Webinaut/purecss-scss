@@ -14,7 +14,7 @@ npm install purecss-scss
 ## Usage
 
 <p>
-Add "@import pure.scss" to your main sass stylesheet
+Add "@use "purecss-scss" as *;" to your main sass stylesheet
 </p>
 
 ## Author
